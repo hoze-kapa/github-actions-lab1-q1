@@ -8,8 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:    
-    - name: Check out the repo    
-      uses: actions/checkout@v4 #added to solve the issue
+    - uses: actions/checkout@v4 #added to solve the issue
 
     - name: Set up Python 3.8
       uses: actions/setup-python@v2
