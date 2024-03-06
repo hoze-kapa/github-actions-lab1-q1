@@ -1,3 +1,3 @@
 # GitHub Actions Lab 1
 
-Change to trigger workflow
+Another Change to trigger workflow
